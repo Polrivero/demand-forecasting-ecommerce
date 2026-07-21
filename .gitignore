@@ -1,0 +1,13 @@
+# Temporales de Python y librerías
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuración del entorno virtual / VS Code
+.vscode/
+.venv/
+env/
+
+# Archivos ocultos del sistema
+.DS_Store
+Thumbs.db
