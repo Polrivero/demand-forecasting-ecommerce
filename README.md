@@ -78,14 +78,15 @@ Documentar las limitaciones de un modelo es tan importante como documentar lo qu
 ## 🛠️ Estructura del repositorio
 
 ```text
-forecasting-demand-app/
-│
-├── app/                  # Código de la aplicación Streamlit
-│   ├── app.py            # Interfaz y visualización
-│   └── utils.py          # Carga de recursos y lógica de simulación
-├── data/                 # Datasets (raw y processed)
-├── models/               # Modelo entrenado (.joblib)
-├── notebooks/            # Notebooks de entrenamiento e inferencia
+demand-forecasting-ecommerce/
+├── app/
+│   ├── app.py                  # Interfaz y visualización
+│   └── utils.py                # Carga de recursos y lógica de simulación
+├── data/                       # Datasets (raw y processed)
+├── models/                     # Modelo entrenado (.joblib)
+├── notebooks/                  # Experimentos y desarrollo del modelo
+│   ├── entrenamiento.ipynb     # Limpieza, feature engineering y modelado
+│   └── inferencia.ipynb        # Pipeline de predicción y generación de datos para la app
 ├── .gitignore
 ├── README.md
 └── requirements.txt
