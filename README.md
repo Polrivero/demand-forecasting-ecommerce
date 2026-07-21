@@ -100,4 +100,4 @@ forecasting-demand-app/
 
 Interesado en la aplicación de **Data Science e Inteligencia Artificial** para la optimización de procesos y la toma de decisiones estratégicas, transformando datos complejos en soluciones tecnológicas de alto impacto. Mi objetivo es aplicar la analítica avanzada y la IA para resolver retos complejos de ingeniería y negocio.
 
-📩 [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [GitHub](https://github.com/tu-usuario)
+📩 [LinkedIn](https://www.linkedin.com/in/pol-rivero-zaragoza/) | [GitHub](https://github.com/tu-usuario)
